@@ -15,7 +15,7 @@ The development of this website exclusively relied on core web technologies:
 
 HTML5: Used to create the structural backbone. Specific attention was paid to:
 
-Utilizing Semantic HTML tags such as <header>, <main>, <footer>, <nav>, <article>, and <section>.
+Utilizing Semantic HTML tags such as header, main, footer, nav, and section.
 
 CSS3: Used for styling and layout. Specific focus areas:
 
